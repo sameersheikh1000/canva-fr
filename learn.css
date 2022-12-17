@@ -1,0 +1,39 @@
+.class1{
+    margin-left: 200px;
+    margin-top: -350px;
+}
+.class2{
+   position: absolute;
+   left: 200px;
+   top: 160px;
+}
+.class3{
+   position: absolute;
+   left: 200px;
+   top: 280px;
+}
+.main{
+   margin-left: 30px;
+   margin-top: 50px;
+}
+.flower{
+    margin-left: 550px;
+    margin-top: -210px;
+    border-radius: 10PX 10PX 10PX 10PX;
+}
+.sup{
+    margin-left: 710px;
+    margin-top: -100px;
+}
+.margin{
+    margin-left: 1030px;
+    margin-top: -120px;
+    width: 300px;
+    border-radius: 20px 20px 20px 20px ;
+}
+.iphone{
+    margin-left: 1040px;
+}
+body{
+    background-color: rgb(138, 138, 75);
+}

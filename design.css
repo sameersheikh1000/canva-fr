@@ -1,0 +1,53 @@
+.left{
+font-size: 13px;
+font-style: italic;
+
+}
+.centre{
+    margin-left: 280px;
+    margin-top: -380px;
+    font-size: 13px;
+    font-style: italic;
+}
+.right{
+font-size: 13px;
+    margin-left: 470px;
+    margin-top: -120px;
+    font-style: italic;
+}
+.canva{
+font-size: 13px;
+position: absolute;
+left: 770px;
+top: 70px
+;font-style: italic;
+}
+.sameer{
+
+    font-size: 13px;
+    position: absolute;
+    left: 940px;
+    top: 70px;font-style: italic;
+
+}
+.flower{
+    margin-left: 1070px;
+    width: 250px;
+   position: absolute;
+   top: 70px;
+}
+.head{
+position: absolute;
+left: 1080px;
+top: 220px;
+
+}.para{
+    position: absolute;
+    left: 1080px;
+    top: 250px;
+    
+    }
+  body{
+    background-color: rgb(138, 138, 75);
+
+  }

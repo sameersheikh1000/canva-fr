@@ -1,0 +1,41 @@
+.divmain{
+    background-color: rgb(138, 138, 75);
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.com{
+
+
+    width: 300px;
+    height: 220px;
+    border-radius: 20px 20px 20px 20px ;
+}
+body{
+    background-color: rgb(138, 138, 75);
+}
+.com1{
+    margin-left: 350px;
+    margin-top: -355px;
+}
+.com3{
+    border-radius: 20px 20px 20px 20px;
+}
+.pic3{
+
+    margin-left: 670px;
+    margin-top: -355px;
+}
+.com4{
+    border-radius: 20px 20px 20px 20px;
+}
+.image{
+    margin-left: 1000px;
+    margin-top: -355px;
+}
+.sameer{
+    margin-left: 1170px;
+    margin-top: -240px;
+}
+.image1{
+    margin-left: 1170px;
+}

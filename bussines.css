@@ -1,0 +1,54 @@
+.centre{
+    margin-left: 300px;
+    margin-top: -380px;
+}
+.right{
+
+    margin-left: 520px;
+    margin-top: -345px;
+}
+.right2{
+
+    margin-left: 730px;
+    margin-top: -345px;
+
+}
+.women{
+    width:130px;
+    /* height: 100px; */
+    margin-left: 960px;
+position: absolute;
+top: 60px;
+border-radius: 10px 10px 10px 10px;
+}
+.book{
+    width:130px;
+    height: 100px;
+    margin-left: 960px;
+position: absolute;
+top: 180px;
+border-radius: 20px 20px 20px 20px;
+}
+body{
+    background-color: rgb(138, 138, 75);
+}
+.chair{
+    width:130px;
+    height: 100px;
+    margin-left: 960px;
+position: absolute;
+top: 310px;
+border-radius: 20px 20px 20px 20px;
+}
+.vasual{
+    margin-left: 1120px;
+    margin-top: -170px;
+}
+.case{
+    margin-left: 1120px;
+    margin-top: 65px;
+}
+.team{
+    margin-left: 1120px;
+    margin-top: 80px;
+}

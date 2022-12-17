@@ -1,0 +1,34 @@
+.main{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+.main1{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+body{
+    background-color: rgb(138, 138, 75);
+}
+.centre2{
+
+    margin-top: -330px;
+    margin-left: 490px;
+}
+.paragraph{
+    margin-left: 670px;
+    margin-top: -230px;
+
+}
+.wom{
+    margin-left: 1000px;
+   position: absolute;
+   top: 85px;
+   border-radius: 20px 20px 20px 20px ;
+   height: 230px;
+}
+.ed{
+    margin-left: 1020px;
+    position: absolute;
+    top: 310px;
+}
